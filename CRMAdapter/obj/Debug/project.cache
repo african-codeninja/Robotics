@@ -1,0 +1,56 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="WindowsAdapter-8D81CECE07B5E03" className="CRM" type="Adapter" isPublic="True" screenShots="CRM.screenshots.resx">
+      <BuildReferences>
+        <BuildReference value="DefaultWindowFactoryConfiguration.xml" />
+        <BuildReference value="openspan.ini" />
+        <BuildReference value="OpenSpan.Virtual.Interfaces.delegates.tlb" />
+        <BuildReference value="OpenSpan.Virtual.Interfaces.tlb" />
+        <BuildReference value="OpenSpan.x32.sys" />
+        <BuildReference value="OpenSpan.x64.sys" />
+        <BuildReference value="Pega.ActiveX.x32.dll" />
+        <BuildReference value="Pega.ActiveX.x64.dll" />
+        <BuildReference value="Pega.GlobalAllocator.x32.dll" />
+        <BuildReference value="Pega.GlobalAllocator.x64.dll" />
+        <BuildReference value="Pega.Native.Remoting.x32.dll" />
+        <BuildReference value="Pega.Native.Remoting.x64.dll" />
+        <BuildReference value="Pega.Remoting.tlb" />
+        <BuildReference value="Pega.Scout.x32.dll" />
+        <BuildReference value="Pega.Scout.x64.dll" />
+        <BuildReference value="Pega.Security.x32.dll" />
+        <BuildReference value="Pega.Security.x64.dll" />
+        <BuildReference value="Pega.SharedMemory.x32.dll" />
+        <BuildReference value="Pega.SharedMemory.x64.dll" />
+        <BuildReference value="Pega.Sinon.x32.dll" />
+        <BuildReference value="Pega.Sinon.x64.dll" />
+        <BuildReference value="Pega.Utilities.x32.dll" />
+        <BuildReference value="Pega.Utilities.x64.dll" />
+        <BuildReference value="Pega.WER.x32.dll" />
+        <BuildReference value="Pega.WER.x64.dll" />
+        <BuildReference value="Pega.Windows.Broker.x32.dll" />
+        <BuildReference value="Pega.Windows.Broker.x64.dll" />
+        <BuildReference value="Pega.WinQueue.x32.dll" />
+        <BuildReference value="Pega.WinQueue.x64.dll" />
+      </BuildReferences>
+    </DesignComponent>
+    <DesignComponent id="Automator-8D83EA8B1DA256B" className="CRM_E_ActivateMDIWin_ActivityStarted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D82E3DF03C3727" className="CRM_E_GetCustInfo_ActivityStarted" type="Automation" isPublic="True" screenShots="">
+      <DynamicClasses>
+        <DynamicClass id="BooleanExpression-8D839F66791C4F1" fileExt=".cs">
+          <References>
+            <Reference value="System.dll" />
+            <Reference value="OpenSpan.dll" />
+            <Reference value="OpenSpan.Controls.dll" />
+          </References>
+        </DynamicClass>
+      </DynamicClasses>
+    </DesignComponent>
+    <DesignComponent id="Automator-8D82DD123C796FF" className="CMR_E_CRMChild_Created" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D81D0779E11E96" className="CRM_E_CRMChild_Activated" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D83EA9C336B529" className="CRM_E_CRMChild_Closing" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D82E2DB35993CF" className="CRM_E_IntMgr_InteractionStarted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="GlobalContainer-8D82D68F3747BE3" className="_GC_CRM" type="GlobalContainer" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D81D0725C0B1D4" className="CRM_E_CRMfrmLogin_Created" type="Automation" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>

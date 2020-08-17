@@ -1,0 +1,15 @@
+<Project>
+  <Preferences>
+    <ComponentTraySettings GroupBy="-1" View="List">
+      <Automator-8D823238B9F739E Height="130" />
+      <Automator-8D823225CF6BD3C Height="130" />
+      <Automator-8D82324B8AF64FA Height="130" />
+      <Automator-8D8297EFA0E7D95 Height="130" />
+      <Automator-8D8273124DA19A6 Height="130" />
+      <Automator-8D8272C3DAEE8D0 Height="130" />
+    </ComponentTraySettings>
+  </Preferences>
+  <DoNotRunDesignComponentIds>
+    <DesignForm-8D821978DE117CD />
+  </DoNotRunDesignComponentIds>
+</Project>

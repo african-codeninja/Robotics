@@ -1,0 +1,53 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="WebAdapter-8D81E1C0F113C9C" className="ACMESearchSystem" type="Adapter" isPublic="True" screenShots="ACMESearchSystem.screenshots.resx">
+      <Translators>
+        <Translator value="OpenSpan.WinInet.x32.dll" />
+        <Translator value="OpenSpan.WinInet.x64.dll" />
+      </Translators>
+      <BuildReferences>
+        <BuildReference value="DefaultWindowFactoryConfiguration.xml" />
+        <BuildReference value="openspan.ini" />
+        <BuildReference value="OpenSpan.Translators.InternetExplorer.x32.dll" />
+        <BuildReference value="OpenSpan.Translators.InternetExplorer.x64.dll" />
+        <BuildReference value="OpenSpan.WinInet.x32.dll" />
+        <BuildReference value="OpenSpan.WinInet.x64.dll" />
+        <BuildReference value="OpenSpan.x32.sys" />
+        <BuildReference value="OpenSpan.x64.sys" />
+        <BuildReference value="Pega.ActiveX.x32.dll" />
+        <BuildReference value="Pega.ActiveX.x64.dll" />
+        <BuildReference value="Pega.GlobalAllocator.x32.dll" />
+        <BuildReference value="Pega.GlobalAllocator.x64.dll" />
+        <BuildReference value="Pega.Native.Remoting.x32.dll" />
+        <BuildReference value="Pega.Native.Remoting.x64.dll" />
+        <BuildReference value="Pega.Scout.x32.dll" />
+        <BuildReference value="Pega.Scout.x64.dll" />
+        <BuildReference value="Pega.Security.x32.dll" />
+        <BuildReference value="Pega.Security.x64.dll" />
+        <BuildReference value="Pega.SharedMemory.x32.dll" />
+        <BuildReference value="Pega.SharedMemory.x64.dll" />
+        <BuildReference value="Pega.Sinon.x32.dll" />
+        <BuildReference value="Pega.Sinon.x64.dll" />
+        <BuildReference value="Pega.Utilities.x32.dll" />
+        <BuildReference value="Pega.Utilities.x64.dll" />
+        <BuildReference value="Pega.WER.x32.dll" />
+        <BuildReference value="Pega.WER.x64.dll" />
+        <BuildReference value="Pega.Windows.Broker.x32.dll" />
+        <BuildReference value="Pega.Windows.Broker.x64.dll" />
+        <BuildReference value="Pega.WinQueue.x32.dll" />
+        <BuildReference value="Pega.WinQueue.x64.dll" />
+      </BuildReferences>
+    </DesignComponent>
+    <DesignComponent id="Automator-8D823238B9F739E" className="AutomationTemplate" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D82EE12A87A8DB" className="ACME_E_GetNearestStore_ActvityStarted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D83A2B9DDA1560" className="Main_E_actGetNearestStore_ActivityCompleted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D8297EFA0E7D95" className="ACME_E_btnTestClicked" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="DesignForm-8D821978DE117CD" className="frmTest" type="WinForm" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D8273124DA19A6" className="ACME_P_GetNearestStore" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D823225CF6BD3C" className="ACME_P_NavToHome" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D8272C3DAEE8D0" className="ACME_P_SerchByZip" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D82324B8AF64FA" className="ACME_P_SignIn" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="GlobalContainer-8D82DCCF858F5E3" className="_GC_ACME" type="GlobalContainer" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>

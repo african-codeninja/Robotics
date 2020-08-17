@@ -1,0 +1,15 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="Automator-8D83A2ED3A53264" className="Main_E_actGetNearestStore_ActivityCompleted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D839F871A3A5CE" className="Main_E_UpdateDisplay_ActivityStarted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D82EDA4C564A0F" className="Main_E_btnNearestStore_Click" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D83EAA583CA5BC" className="Main_E_InteractionClosed" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D82DD20727D854" className="Main_E_IntMgr_InteractionStarted" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D83EA71BC652E3" className="Main_E_IntMgr_InteractionActivated" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D83DD875976E4A" className="Main_E_IntMgr_TextChanged" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D82E272054FED0" className="Main_P_LoadCustomerInfoValues" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="GlobalContainer-8D82D68A201F263" className="_GC_Main" type="GlobalContainer" isPublic="True" screenShots="" />
+    <DesignComponent id="DesignForm-8D82D5F91226A17" className="frmCustInfo" type="WinForm" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>

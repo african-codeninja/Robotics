@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Pega Robot Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{B45C44CD-E95B-43EF-AF7C-4D25776FBF5E}") = "CRMAdapter", "CRMAdapter\CRMAdapter.osproj", "{C2BC330C-5DED-4658-964C-59EA44EF87D0}"
+EndProject
+Project("{B45C44CD-E95B-43EF-AF7C-4D25776FBF5E}") = "TrainingWebAdapter", "TrainingWebAdapter\TrainingWebAdapter.osproj", "{7E0D54EF-0507-4D1B-B6BE-849DF5B8ADA1}"
+EndProject
+Project("{B45C44CD-E95B-43EF-AF7C-4D25776FBF5E}") = "MainPrj", "MainPrj\MainPrj.osproj", "{5102A85B-763F-4A17-A3C9-818FED877A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2BC330C-5DED-4658-964C-59EA44EF87D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BC330C-5DED-4658-964C-59EA44EF87D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BC330C-5DED-4658-964C-59EA44EF87D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BC330C-5DED-4658-964C-59EA44EF87D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0D54EF-0507-4D1B-B6BE-849DF5B8ADA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0D54EF-0507-4D1B-B6BE-849DF5B8ADA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0D54EF-0507-4D1B-B6BE-849DF5B8ADA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0D54EF-0507-4D1B-B6BE-849DF5B8ADA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5102A85B-763F-4A17-A3C9-818FED877A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5102A85B-763F-4A17-A3C9-818FED877A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5102A85B-763F-4A17-A3C9-818FED877A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5102A85B-763F-4A17-A3C9-818FED877A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

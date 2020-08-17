@@ -1,0 +1,12 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="MainPrj" fileName="MainPrj.dll" assemblyName="MainPrj.dll" id="Project-8D82D5F728E7AE6" version="19.1.21.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="0AF7E5B8481B188D234C304612431D9E9DC77E">
+    <Assemblies>
+      <Assembly value="MainPrj.dll" digest="179394F44FF2F65E54F2335FFD6CD1A17246DA" />
+      <Assembly value="MainPrj.pdb" digest="57036D13945469FD7A637247F299CB55498065" />
+      <Assembly value="CRMAdapter.dll" digest="2ED8E6C61AA300F87D50D836DF12F41DE9F561" />
+      <Assembly value="CRMAdapter.pdb" digest="313B02517A6B6927B344A3282E987015E6D583" />
+      <Assembly value="TrainingWebAdapter.dll" digest="FD54F29EBFF6F7F11813EBB2A0C68FE6780493" />
+      <Assembly value="TrainingWebAdapter.pdb" digest="7B25394EE485A897B6DFCFC4D465AE17820046" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
