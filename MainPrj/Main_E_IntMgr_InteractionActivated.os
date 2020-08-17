@@ -4,10 +4,10 @@
     <Assembly Value="OpenSpan.Automation" />
     <AssemblyReferences>
       <Assembly Value="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+      <Assembly Value="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
       <Assembly Value="OpenSpan, Version=19.1.0.0, Culture=neutral, PublicKeyToken=f5db91edc02d8c5e" />
       <Assembly Value="OpenSpan.Automation, Version=19.1.0.0, Culture=neutral, PublicKeyToken=f5db91edc02d8c5e" />
       <Assembly Value="OpenSpan.Interactions.Controls, Version=19.1.0.0, Culture=neutral, PublicKeyToken=f5db91edc02d8c5e" />
-      <Assembly Value="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
     </AssemblyReferences>
     <DynamicAssemblyReferences />
     <FileReferences />
@@ -34,8 +34,8 @@
             <DisplayName Value="Execute" />
             <ConnectableUniqueId Value="Automator-8D83EA71BC652E3\ConnectableMethod-8D83EA74263AA57" />
             <PartID Value="2" />
-            <Left Value="420" />
-            <Top Value="80" />
+            <Left Value="520" />
+            <Top Value="220" />
             <Collapsed Value="False" />
             <WillExecute Value="True" />
             <InstanceName Value="Main_P_LoadCustomerInfoValues" />
@@ -44,27 +44,27 @@
         </Objects>
         <Links>
           <Link PartID="3" Sensitive="False" Asynchronous="False" LogBeforeExecution="" LogAfterExecution="">
-            <From PartID="1" PortName="Raised" PortType="Event" ConnectableId="Automator-8D83EA71BC652E3\ConnectableEvent-8D83EA7313487B7" MemberComponentId="Automator-8D83EA71BC652E3\EMPTY" />
+            <From PartID="1" PortName="Raised" PortType="Event" ConnectableId="Automator-8D83EA71BC652E3\ConnectableEvent-8D83EA7313487B7" MemberComponentId="Automator-8D83EA71BC652E3\ConnectableEvent-8D83EA7313487B7" />
             <To PartID="2" PortName="DoWork" PortType="Method" ConnectableId="Automator-8D83EA71BC652E3\ConnectableMethod-8D83EA74263AA57" MemberComponentId="Automator-8D83EA71BC652E3\ConnectableMethod-8D83EA74263AA57" />
             <LinkPoints>
               <Point value="325, 125" />
               <Point value="335, 125" />
-              <Point value="375, 125" />
-              <Point value="375, 109" />
-              <Point value="415, 109" />
-              <Point value="425, 109" />
+              <Point value="340, 125" />
+              <Point value="340, 249" />
+              <Point value="515, 249" />
+              <Point value="525, 249" />
             </LinkPoints>
           </Link>
           <Link PartID="4" Sensitive="False" Asynchronous="False" LogBeforeExecution="" LogAfterExecution="">
-            <From PartID="1" PortName="Key" PortType="Property" ConnectableId="Automator-8D83EA71BC652E3\ConnectableEvent-8D83EA7313487B7" MemberComponentId="Automator-8D83EA71BC652E3\EMPTY" />
+            <From PartID="1" PortName="Key" PortType="Property" ConnectableId="Automator-8D83EA71BC652E3\ConnectableEvent-8D83EA7313487B7" MemberComponentId="Automator-8D83EA71BC652E3\ConnectableEvent-8D83EA7313487B7" />
             <To PartID="2" PortName="_param1" PortType="Property" ConnectableId="Automator-8D83EA71BC652E3\ConnectableMethod-8D83EA74263AA57" MemberComponentId="Automator-8D83EA71BC652E3\ConnectableMethod-8D83EA74263AA57" />
             <LinkPoints>
               <Point value="325, 159" />
               <Point value="335, 159" />
               <Point value="340, 159" />
-              <Point value="340, 143" />
-              <Point value="415, 143" />
-              <Point value="425, 143" />
+              <Point value="340, 283" />
+              <Point value="515, 283" />
+              <Point value="525, 283" />
             </LinkPoints>
           </Link>
         </Links>
