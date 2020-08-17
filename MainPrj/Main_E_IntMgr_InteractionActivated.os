@@ -34,8 +34,8 @@
             <DisplayName Value="Execute" />
             <ConnectableUniqueId Value="Automator-8D83EA71BC652E3\ConnectableMethod-8D83EA74263AA57" />
             <PartID Value="2" />
-            <Left Value="520" />
-            <Top Value="220" />
+            <Left Value="680" />
+            <Top Value="100" />
             <Collapsed Value="False" />
             <WillExecute Value="True" />
             <InstanceName Value="Main_P_LoadCustomerInfoValues" />
@@ -50,9 +50,9 @@
               <Point value="325, 125" />
               <Point value="335, 125" />
               <Point value="340, 125" />
-              <Point value="340, 249" />
-              <Point value="515, 249" />
-              <Point value="525, 249" />
+              <Point value="340, 129" />
+              <Point value="675, 129" />
+              <Point value="685, 129" />
             </LinkPoints>
           </Link>
           <Link PartID="4" Sensitive="False" Asynchronous="False" LogBeforeExecution="" LogAfterExecution="">
@@ -62,9 +62,9 @@
               <Point value="325, 159" />
               <Point value="335, 159" />
               <Point value="340, 159" />
-              <Point value="340, 283" />
-              <Point value="515, 283" />
-              <Point value="525, 283" />
+              <Point value="340, 163" />
+              <Point value="675, 163" />
+              <Point value="685, 163" />
             </LinkPoints>
           </Link>
         </Links>
